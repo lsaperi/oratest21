@@ -1,0 +1,14 @@
+{
+  "Attributes": [],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "FINAL": "YES",
+      "OBJECT_TYPE": "TYPE",
+      "SUPERTYPE_NAME": null,
+      "TYPE_NAME": "PERSON_TABLE",
+      "TYPECODE": "COLLECTION"
+    }
+  ],
+  "Methods": []
+}
